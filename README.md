@@ -1,3 +1,4 @@
 # collage-demo
-My collage repository 
+My collage repository
+<br>
 Author-Navya kushwaha
